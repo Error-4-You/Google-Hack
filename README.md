@@ -13,8 +13,5 @@ Automatically launch google hacking queries against a target domain to find vuln
 ```
 
 ## LICENSE:
-This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-For-You) and is not for commercial use.
+This software is free to distribute, modify and use with the condition that credit is provided to the creator (Error-4-You) and is not for commercial use.
 
-## AUTHOR:
-@xer0dayz
-https://sn1persecurity.com
