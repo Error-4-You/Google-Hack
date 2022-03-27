@@ -1,5 +1,5 @@
 #!/bin/bash
-# + -- --=[GooHak by @xer0dayz
+# + -- --=[GooHak by @Error-4-You
 # + -- --=[http://sn1persecurity.com
 #
 # ABOUT:
@@ -21,7 +21,7 @@ RESET='\e[0m'
 
 if [ -z $TARGET ]; then
 	echo -e "$OKORANGE + -- --=[https://sn1persecurity.com$RESET"
-	echo -e "$OKORANGE + -- --=[GooHak v$VER by @xer0dayz$RESET"
+	echo -e "$OKORANGE + -- --=[GooHak v$VER by @Error-4-You$RESET"
 	echo -e "$OKORANGE + -- --=[Usage: goohak <domain>$RESET"
 	exit
 fi
